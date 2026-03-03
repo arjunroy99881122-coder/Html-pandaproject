@@ -20,7 +20,7 @@
   
 }
 .menu{
-  background-color: greenyellow;
+  background-color: pink;
   padding: 20px;
   height: 200px;
   width: 900px;
@@ -63,7 +63,7 @@
 .watch{
   height: 100%;
   padding: 20px;
-  background-color:blue;
+  background-color: yellow;
   width: 300px;
   display: flex;
   justify-content: space-between;
